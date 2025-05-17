@@ -1,0 +1,7 @@
+Flask>=2.0
+requests>=2.25
+googlemaps>=4.0
+pandas>=1.0 
+numpy>=1.19
+beautifulsoup4>=4.9
+lxml>=4.6 # Added for faster parsing with BeautifulSoup
